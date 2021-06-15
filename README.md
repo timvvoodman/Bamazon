@@ -4,10 +4,6 @@
 ![Size](https://img.shields.io/github/repo-size/timvvoodman/Bamazon)
 ![Language](https://img.shields.io/github/languages/top/timvvoodman/Bamazon)
 
-## Screenshot / GIF of the application (Demo)
-
-![Demo Screenshot / GIF](Link)
-
 ## Application Description
 
 Full stack e-commerce clone based on Amazon. Includes cart, checkout, payment, and order history functionality
