@@ -17,7 +17,7 @@ Full stack e-commerce clone based on Amazon. Includes cart, checkout, payment, a
 
 ## Demo
 
-View the application here: [https://b-15da6.web.app/](Link)
+View the application here: [https://b-15da6.web.app](Link)
 
 ## Technology Stack
 
